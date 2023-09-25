@@ -1,0 +1,33 @@
+name: BCserverDen1
+description: Dart BC Server Isolate
+version: 0.1.0
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  asn1lib:
+  basic_utils:
+  bloc:
+  teledart:
+  cupertino_icons:
+  encrypt:
+  lumberdash:
+  colorize_lumberdash:
+  commerciosdk:
+  sacco:
+  bip39:
+  bip32:
+  http:
+  mysql1:
+  process_run:
+  pem: 
+  crypto:
+  crypto_keys:
+  isolate:
+
+dev_dependencies:
+  
+  
+
+
